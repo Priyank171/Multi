@@ -1,0 +1,6 @@
+{
+  "name": "Swarm Matrix",
+  "description": "10-Tier Hierarchical Multi-Agent AI Swarm Command Center for 349,527 agents with free hybrid routing and high-efficiency Map-Reduce telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
